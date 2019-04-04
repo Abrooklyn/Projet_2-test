@@ -1,0 +1,30 @@
+.title h1{
+    width:100%;
+    font-size:400%;
+    color: aliceblue;
+    transform: translate(50px , 50px);
+}
+
+
+.img_header{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px;
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 70%, rgba(255,255,255,1) 100%), url(img/header_img/parachute2full.jpg);
+    text-align: center;
+    opacity: 0.9;
+}
+
+.banniere{
+    background-color: lightgrey;
+    height: 8em;
+}
+
+.navbar{
+    height: 5em;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
